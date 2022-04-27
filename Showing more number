@@ -1,0 +1,9 @@
+fun main() {
+    val a: Int = 3
+    val b: Int = 1
+    val number: Int = if (a>b)
+        a
+    else
+        b
+    println (number)
+}
